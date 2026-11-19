@@ -1,0 +1,9 @@
+[submodule "CustomerService"]
+	path = CustomerService
+	url = https://github.com/adhithya-padakanti-001/CustomerService.git
+[submodule "RiderService"]
+	path = RiderService
+	url = https://github.com/adhithya-padakanti-001/RiderService.git
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/adhithya-padakanti-001/ApiGateway.git
